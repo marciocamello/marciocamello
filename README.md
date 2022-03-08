@@ -27,7 +27,7 @@ Strengths: Determination, teamwork, patience, and ease of learning.
 
 Skills: Agility in solving problems, integrating tools, innovation, consulting, application architecture, proactivity.
 
-Areas of interest: Web technologies, Game developer (possible career change)
+Areas of interest: Web/Mobile technologies, Game developer (possible career change)
 
 I evolved a lot in my career, I went back to school and I'm finishing college, and I redid all my steps about what I should or shouldn't need to learn anymore, today I am different, and this has made me gain respect and admiration in the last 5 years. by the team, I worked for, which has been very close.
 
