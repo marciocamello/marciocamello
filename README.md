@@ -12,13 +12,17 @@ But, I also used it in projects:
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
 &nbsp;
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="35px"/> 
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
 &nbsp;
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
 &nbsp;
 <img src="https://img.icons8.com/color/452/mongodb.png" height="35px"/>
+&nbsp;
+<img src="https://e7.pngegg.com/pngimages/886/730/png-clipart-unreal-engine-4-game-engine-video-game-others-game-3d-computer-graphics.png" height="35px"/>
+&nbsp;
+<img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" height="35px"/>
 </p>
 
 With over 15 years as a developer and more than 20 years in the technology area, in the area of ​​hardware and networks, today I intend to become Tech Lead and reach the position of CTO, where I can collaborate with the teams, and participate in all squads taking my knowledge acquired over the years, and learning from new generations.
