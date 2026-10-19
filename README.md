@@ -1,46 +1,83 @@
-### Hey there 👋
+# Hey there! 👋 I'm Marcio Vale 👨‍🚀
 
-**I'm Marcio Vale 👨‍🚀**. Currently I'm a frontend developer at Smartdigit.
-And a GamePlay Design student with Unreal Engine and Blender.
+**Senior Software Engineer | Frontend Development | Unreal Engine | Game Development | AI**
 
-Currently I'm working with **React** to make Web applications:
+I'm a **Senior Frontend Developer at [Smartdigit](https://www.smartdigit.pt/)**, based in Portugal, with over **15 years of professional experience in software development** and more than **20 years working in technology**, including hardware, networking, software engineering, and application architecture.
 
-But, I also used it in projects: 
+Alongside my professional career, I'm a **Gameplay Design student and independent game developer**, exploring the intersection of **software engineering, game development, and artificial intelligence**.
 
-<p>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
-&nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
-&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="35px"/> 
-&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
-&nbsp;
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
-&nbsp;
-<img src="https://img.icons8.com/color/452/mongodb.png" height="35px"/>
-&nbsp;
-<img src="https://e7.pngegg.com/pngimages/886/730/png-clipart-unreal-engine-4-game-engine-video-game-others-game-3d-computer-graphics.png" height="35px"/>
-&nbsp;
-<img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" height="35px"/>
-</p>
+I enjoy solving complex problems, building scalable systems, learning new technologies, and turning ideas into working solutions.
 
-With over 15 years as a developer and more than 20 years in the technology area, in the area of ​​hardware and networks, today I intend to become Tech Lead and reach the position of CTO, where I can collaborate with the teams, and participate in all squads taking my knowledge acquired over the years, and learning from new generations.
+## 💻 Software Engineering
 
-Strengths: Determination, teamwork, patience, and ease of learning.
+My professional experience includes building and maintaining web applications, designing software architectures, integrating systems, and collaborating with multidisciplinary development teams.
 
-Skills: Agility in solving problems, integrating tools, innovation, consulting, application architecture, proactivity.
+My core technologies include:
 
-Areas of interest: Web/Mobile technologies, Game developer (possible career change)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-I evolved a lot in my career, I went back to school and I'm finishing college, and I redid all my steps about what I should or shouldn't need to learn anymore, today I am different, and this has made me gain respect and admiration in the last 5 years. by the team, I worked for, which has been very close.
+**Areas of expertise:**
+- Frontend engineering and application architecture
+- System integration and technical problem-solving
+- Software design, maintainability, and scalability
+- Team collaboration, mentoring, and knowledge sharing
 
-What people always tell me, and that there is nothing that I can’t find a solution for, I don’t give up on any challenge.
+## 🎮 Game Development
 
+I'm actively developing independent projects using **Unreal Engine 5**, combining my software engineering background with Gameplay Design.
 
-**Follow me on my social media:**
+My work includes building game systems with **C++ and Blueprints**, developing gameplay mechanics, exploring modular architectures, and integrating artificial intelligence into interactive experiences.
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/mac3designer/)](https://www.instagram.com/mac3designer/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciocamello/)](https://www.linkedin.com/in/marciocamello/) 
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/vovozeraa)](https://www.twitch.tv/vovozeraa) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-6633cc?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/marciocamello)](https://twitter.com/marciocamello) 
+I'm also expanding my knowledge of 3D content creation and technical workflows using Blender and ZBrush.
+
+**Technologies and areas of focus:**
+
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+
+- Unreal Engine 5 development with C++ and Blueprints
+- Gameplay programming, systems design, and architecture
+- AI-driven NPC behaviors and interactive dialogue systems
+- Modular and extensible game development tools
+- Gameplay Design and player experience
+- 3D modeling and content creation workflows
+- Exploring UEFN, Verse, and the future of Unreal Engine
+
+## 🤖 AI & Emerging Technologies
+
+I'm interested in how artificial intelligence can transform both software engineering and interactive entertainment.
+
+My independent research and development work explores **AI integration, intelligent agents, contextual interactions, and extensible AI-driven systems**, with a focus on practical applications in games and developer tools.
+
+I believe the future of development lies in combining strong engineering foundations, creativity, and intelligent systems.
+
+## 🚀 My Journey
+
+My career started with hardware and networking before evolving into software engineering, frontend development, and application architecture.
+
+Returning to academic studies helped reshape my approach to learning and professional growth, inspiring me to explore new disciplines such as Gameplay Design, real-time 3D, and artificial intelligence.
+
+Today, my focus is on continuing to grow as a software engineer while building the technical and creative foundation for a deeper career in game development.
+
+**What drives me:**
+- Continuous learning and technical exploration
+- Solving challenging engineering problems
+- Building meaningful and innovative products
+- Sharing knowledge and collaborating with others
+- Persistence, adaptability, and curiosity
+
+> There's always a solution worth exploring. I don't give up easily on a challenge.
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marciocamello/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mac3designer/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/vovozeraa)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/marciocamello/)
